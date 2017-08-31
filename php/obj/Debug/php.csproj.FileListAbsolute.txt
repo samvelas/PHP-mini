@@ -1,0 +1,10 @@
+C:\Users\mrasa\Desktop\phpVS\php\php\obj\Debug\php.csprojResolveAssemblyReference.cache
+C:\Users\mrasa\Desktop\phpVS\php\php\bin\Debug\php.exe
+C:\Users\mrasa\Desktop\phpVS\php\php\bin\Debug\php.pdb
+C:\Users\mrasa\Desktop\phpVS\php\php\bin\Debug\Antlr4.Runtime.dll
+C:\Users\mrasa\Desktop\phpVS\php\php\obj\Debug\php.exe
+C:\Users\mrasa\Desktop\phpVS\php\php\obj\Debug\php.pdb
+C:\Users\mrasa\Desktop\phpVS\res\php\php\bin\Debug\php.exe
+C:\Users\mrasa\Desktop\phpVS\res\php\php\bin\Debug\php.pdb
+C:\Users\mrasa\Desktop\phpVS\res\php\php\obj\Debug\php.exe
+C:\Users\mrasa\Desktop\phpVS\res\php\php\obj\Debug\php.pdb
