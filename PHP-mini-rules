@@ -1,0 +1,4 @@
+Operators: +, -, *, /, decl, if-else, ==, !=, <=, >=, >, <, echo, switch, var_dump
+Types: int bool функции (255+true=256)
+
+http://php.net/
